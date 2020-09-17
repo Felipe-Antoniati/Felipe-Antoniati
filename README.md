@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-antoniati.felipe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniati.felipe@gmail.com)](mailto:antoniati.felipe@gmail.com)
 
 Desenvolvedor de Aplicativos Mobile e Web, responsável por transformar linhas de código em soluções que tornam a vida das pessoas mais fácil - 
-Utilizando as melhores tecnologias do mercado, adquiri as habilidades e conhecimentos necessários para fazer do seu projeto um ✨sucesso✨!
+Utilizando as melhores tecnologias do mercado, adquiri as habilidades e conhecimentos necessários para fazer do seu projeto um enorme ✨sucesso✨!
 
 <!--
 **Felipe-Antoniati/Felipe-Antoniati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
