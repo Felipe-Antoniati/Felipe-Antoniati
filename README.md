@@ -4,7 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-antoniati.felipe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniati.felipe@gmail.com)](mailto:antoniati.felipe@gmail.com)
 
 Desenvolvedor Web responsável por transformar linhas de código em soluções que tornam a vida das pessoas mais fácil;
-
 Utilizando as melhores tecnologias do mercado, adquiri as habilidades e conhecimentos necessários para fazer do seu projeto um ✨sucesso✨!
 
 <!--
