@@ -3,8 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@felipe-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-antoniati.felipe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniati.felipe@gmail.com)](mailto:antoniati.felipe@gmail.com)
 
-Desenvolvedor de Aplicativos Mobile e Web, responsável por transformar linhas de código em soluções que tornam a vida das pessoas mais fácil - 
-Utilizando as melhores tecnologias do mercado, adquiri as habilidades e conhecimentos necessários para fazer do seu projeto um enorme ✨sucesso✨!
+Mobile and Web Application Developer, responsible for transforming lines of code into solutions that make people's lives easier - Using the best technologies in the market, acquire skills and knowledge to make your project a huge ✨success✨!
+
+
 
 <!--
 **Felipe-Antoniati/Felipe-Antoniati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
