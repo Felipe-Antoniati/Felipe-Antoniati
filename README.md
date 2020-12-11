@@ -1,11 +1,9 @@
-### Hi there 👋
+### Olá 👋
+Eu sou Felipe Antoniati, desenvolvedor web fullstack, responsável por criar Sites modernos e Aplicativos dinâmicos
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-antoniati.felipe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniati.felipe@gmail.com)](mailto:antoniati.felipe@gmail.com)
-
-Desenvolvedor web fullstack, responsável por criar Sites modernos e Aplicativos dinâmicos
-
-
 
 <!--
 **Felipe-Antoniati/Felipe-Antoniati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
