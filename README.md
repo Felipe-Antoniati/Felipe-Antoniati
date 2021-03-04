@@ -4,7 +4,7 @@ Eu sou Felipe Antoniati
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-antoniati.felipe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antoniati.felipe@gmail.com)](mailto:antoniati.felipe@gmail.com)
 
-- 🔭 Atualmente estou trabalhando em ... GMO (assistente de serviços gerais)
+- 🔭 Atualmente estou trabalhando em ... GMO (auxiliar de serviços gerais)
 - 🌱 Atualmente estou aprendendo ... React, Next.js, Node.js
 - 👯 Estou procurando colaborar em ... projetos javascript
 - 🤔 Estou procurando ajuda com ... projetos javascript
